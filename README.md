@@ -8,12 +8,6 @@
 https://github.com/POLETTISTE/VMI_TEST_FRONT-END.git
 ```
 
-### Go to the project directory :
-
-```
-cd FRONT-END
-```
-
 ```
 Run index.html file
 ```
